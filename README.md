@@ -3,8 +3,8 @@
 # Zhihu Hotlist Widget for Scriptable
 
 ✨ 一个漂亮简洁的 Scriptable 小组件，用于展示知乎热榜前 8 条内容，适配深色模式并带有蓝色渐变背景。
+![IMG_7396(20250411-160554)](https://github.com/user-attachments/assets/5b92c58d-1c3d-4b5d-bd62-173dadd4b544)
 
-![screenshot](screenshot.png)
 
 ## 📦 特性
 
