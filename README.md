@@ -27,4 +27,4 @@
 本项目使用知乎公开的热榜 API 接口，仅用于学习与展示，若有侵权请联系删除。
 
 接口地址：
-https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50
+(https://api.zhihu.com/topstory/hot-list)
